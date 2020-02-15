@@ -16,7 +16,7 @@ public class LoginFormActivity extends AppCompatActivity {
     }
 
     public void btnSignUpForm(View view) {
-        startActivity(new Intent(getApplicationContext(),SignUp_form.class));
+        startActivity(new Intent(getApplicationContext(), SignUpFormActivity.class));
     }
 
     public void btnLoginForm(View view) {
