@@ -14,8 +14,5 @@ public class SignUpFormActivity extends AppCompatActivity {
         getSupportActionBar().setTitle("SingUp Form");
     }
 
-    public void btn_loginForm(View view) {
 
-
-    }
 }

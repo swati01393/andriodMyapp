@@ -20,6 +20,6 @@ public class LoginFormActivity extends AppCompatActivity {
     }
 
     public void btnLoginForm(View view) {
-        startActivity(new Intent(getApplicationContext(), LoginFormActivity.class) );
+        startActivity(new Intent(getApplicationContext(), HomeActivity.class) );
     }
 }
